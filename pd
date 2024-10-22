@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Name>Ali</Name>
+    <Age>25</Age>
+    <City>Multan</City>
+  </row>
+  <row>
+    <Name>Usman</Name>
+    <Age>30</Age>
+    <City>Turkey</City>
+  </row>
+  <row>
+    <Name>Atif</Name>
+    <Age>35</Age>
+    <City>Pakistan</City>
+  </row>
+</data>
